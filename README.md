@@ -32,6 +32,12 @@ Here are some of the technologies I've been working with recently:
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="" alt="AWS"/>
+  </a>
+
+  <br/>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
