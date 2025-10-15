@@ -4,24 +4,23 @@
 
 <div id="header" align="center">
   <h1>
-    Hi there, I'm [Your Name] 👋
+    Hi there, I'm Anmol More 👋
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>A passionate [Your Role e.g., Full Stack Developer, Data Scientist] from [Your City, Country] 📍</h3>
+  <h3>A passionate Full Stack Developer, helping startups build AI/ML applications and services from Tempe, AZ 📍</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Project Name]**.
-- 🌱 I’m currently learning **[Technology you are learning]**.
-- 👯 I’m looking to collaborate on **[Types of projects you want to collaborate on]**.
-- 🤔 I’m looking for help with **[A topic you need help with]**.
-- 💬 Ask me about **[Topics you are knowledgeable in, e.g., React, Python, Machine Learning]**.
-- 📫 How to reach me: **[your.email@example.com]**.
-- 😄 Pronouns: **[He/Him, She/Her, They/Them, etc.]**.
-- ⚡ Fun fact: **[A fun fact about you]**.
+- 🔭 I’m currently working on **RAG-powered search recommendation service**.
+- 🌱 I’m currently learning **LangChain and Google Cloud Platofrm**.
+- 👯 I’m looking to collaborate on **AI/ML powered services**.
+- 💬 Ask me about **Generative AI, Prompt Engineering, Agentic AI, MCPs, GCP, Python**.
+- 📫 How to reach me: **moreanmol7@gmail.com**.
+- 😄 Pronouns: **He/Him**.
+- ⚡ I really love: **Rap Rock, Nu Metal, Emo Rock, Alt Rock, Hard Rock**.
 
 ---
 
@@ -30,6 +29,9 @@
 Here are some of the technologies I've been working with recently:
 
 <p align="left">
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
@@ -50,9 +52,6 @@ Here are some of the technologies I've been working with recently:
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
