@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
   <h1>
-    Hi there, I'm Anmol More 👋
+    Hi there, I'm Anmol More
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>A passionate Full Stack Developer, helping startups build AI/ML applications and services from Tempe, AZ 📍</h3>
