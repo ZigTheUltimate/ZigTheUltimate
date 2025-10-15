@@ -69,6 +69,15 @@
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       </a>
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+      </a>
+      <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+      </a>
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Docker"/>
+      </a>
     </td>
   </tr>
   <tr>
