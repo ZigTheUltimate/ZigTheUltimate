@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="[LINK_TO_YOUR_HEADER_IMAGE_OR_GIF]" alt="Header Banner" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:AA3333,100:3333AA&text=Anmol%20More&section=header&textBg=false&animation=twinkling&fontColor=F7F7F7" alt="Anmol More" width="800"/>
 </p>
 
 <div id="header" align="center">
   <h1>
-    Hi there, I'm Anmol More
+    Hi, there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>A passionate Full Stack Developer, helping startups build AI/ML applications and services</h3>
