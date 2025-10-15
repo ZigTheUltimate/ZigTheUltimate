@@ -7,15 +7,15 @@
     Hi, there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>A passionate Full Stack Developer, helping startups build AI/ML applications and services</h3>
+  <h3>A passionate Full Stack Developer, building scalable and robust AI/ML applications and services</h3>
   Tempe, AZ 📍
 </div>
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **RAG-powered search recommendation service**.
+- 🔭 I’m currently working on **RAG-powered search recommendation service** at [**ScreenGeni.us**](https://screengeni.us).
 - 🌱 I’m currently learning **LangChain and Google Cloud Platofrm**.
-- 👯 I’m looking to collaborate on **AI/ML powered services**.
+- 👯 I’m looking to collaborate on **Artificial Intelligence-As-A-Service (AIaaS)**.
 - 💬 Ask me about **Generative AI, Prompt Engineering, Agentic AI, MCPs, GCP, Python**.
 - 📫 How to reach me: **moreanmol7@gmail.com**.
 - 😄 Pronouns: **He/Him**.
